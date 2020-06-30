@@ -2,7 +2,7 @@
 
 ## Initiating a new pipeline
 
-1. Go on the Jenkins home page, for eng57 this is the link filipe made for us | http://18.130.21.164:8080/
+1. Go on the Jenkins home page, for eng57 this is the link filipe made for us | http://35.178.239.152:8080/
 2. Click `New Item` at the top left to make a new pipeline 
 3. Click on `freestyle project` and name your pipeline
 
