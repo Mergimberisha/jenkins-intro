@@ -57,4 +57,4 @@
 3. Merge Results - (Tick box)
 4. Add Branch
 5. Branch to push - (write `master`)
-6. Target remote name - (write `origin` )
+6. Target remote name - (write `origin`)
